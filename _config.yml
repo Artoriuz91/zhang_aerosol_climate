@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yanda Zhang, PhD"
+title                    : "Yanda Zhang, Assistant Professor"
 title_separator          : "-"
-name                     : &name "Yanda Zhang / Assistant Professor"
+name                     : &name "Yanda Zhang"
 description              : &description "Yanda Zhang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://artoriuz91.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I'm an climate scientist, foucs on how aerosols influnce climate and extreme weather events. I'm an Assistant Professor in Earth, Ocean and Atmospheric Sciences at HKUST (GZ). I received my bachelor’s degree from Ocean University of China and my PhD from the University at Albany, State University of New York. Before joining HKUST (GZ), I was a postdoctoral researcher at Princeton University and NOAA’s Geophysical Fluid Dynamics Laboratory (2021–2023), and at Columbia University (2023–2026)."
   location         : "Guangzhou, China"
-  employer         : "Hong Kong University of Science and Technology (Guangzhou)"
+  employer         : "HKUST (Guangzhou)"
   uri              : # URL
   email            : "yandazhang@hkust-gz.edu.cn" 
 
